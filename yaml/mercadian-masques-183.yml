@@ -1,0 +1,114 @@
+---
+object: card
+id: 80b39056-2ee8-4cfd-acbd-ba99f74e788d
+oracle_id: '01805d0d-3a72-4d26-9475-3e68c278b7fe'
+multiverse_ids:
+- 19608
+mtgo_id: 13595
+mtgo_foil_id: 13596
+tcgplayer_id: 6474
+cardmarket_id: 11556
+name: Cinder Elemental
+lang: en
+released_at: '1999-10-04'
+uri: https://api.scryfall.com/cards/80b39056-2ee8-4cfd-acbd-ba99f74e788d
+scryfall_uri: https://scryfall.com/card/mmq/183/cinder-elemental?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/8/0/80b39056-2ee8-4cfd-acbd-ba99f74e788d.jpg?1562381825
+  normal: https://cards.scryfall.io/normal/front/8/0/80b39056-2ee8-4cfd-acbd-ba99f74e788d.jpg?1562381825
+  large: https://cards.scryfall.io/large/front/8/0/80b39056-2ee8-4cfd-acbd-ba99f74e788d.jpg?1562381825
+  png: https://cards.scryfall.io/png/front/8/0/80b39056-2ee8-4cfd-acbd-ba99f74e788d.png?1562381825
+  art_crop: https://cards.scryfall.io/art_crop/front/8/0/80b39056-2ee8-4cfd-acbd-ba99f74e788d.jpg?1562381825
+  border_crop: https://cards.scryfall.io/border_crop/front/8/0/80b39056-2ee8-4cfd-acbd-ba99f74e788d.jpg?1562381825
+mana_cost: "{3}{R}"
+cmc: 4.0
+type_line: Creature — Elemental
+oracle_text: "{X}{R}, {T}, Sacrifice Cinder Elemental: It deals X damage to any target."
+power: '2'
+toughness: '2'
+colors:
+- R
+color_identity:
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 385e11a4-492b-4d07-b4a6-a1409ef829b8
+set: mmq
+set_name: Mercadian Masques
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/385e11a4-492b-4d07-b4a6-a1409ef829b8
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ammq&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/mmq?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/80b39056-2ee8-4cfd-acbd-ba99f74e788d/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A01805d0d-3a72-4d26-9475-3e68c278b7fe&unique=prints
+collector_number: '183'
+digital: false
+rarity: uncommon
+flavor_text: Their rage can grow to such proportions that they explode in a cloud
+  of fire.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Greg Staples
+artist_ids:
+- 93d65564-bf00-447b-8406-e2031f03b6b1
+illustration_id: 2068aafb-bebf-4acf-b149-d8b9c41ab50e
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 17985
+penny_rank: 2237
+prices:
+  usd: '0.20'
+  usd_foil: '0.44'
+  usd_etched: 
+  eur: '0.20'
+  eur_foil: '1.90'
+  tix: '0.09'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=19608
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Cinder+Elemental&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Cinder+Elemental&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Cinder+Elemental
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/6474?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Cinder+Elemental&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/13595?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

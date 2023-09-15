@@ -1,0 +1,111 @@
+---
+object: card
+id: 3f4e783c-0717-4127-bd7b-885ca617ca29
+oracle_id: 6d53f58c-6cf3-4ecc-8227-8c264fecc836
+multiverse_ids:
+- 19723
+mtgo_id: 13103
+mtgo_foil_id: 13104
+tcgplayer_id: 6446
+cardmarket_id: 11551
+name: Brawl
+lang: en
+released_at: '1999-10-04'
+uri: https://api.scryfall.com/cards/3f4e783c-0717-4127-bd7b-885ca617ca29
+scryfall_uri: https://scryfall.com/card/mmq/178/brawl?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/3/f/3f4e783c-0717-4127-bd7b-885ca617ca29.jpg?1562380385
+  normal: https://cards.scryfall.io/normal/front/3/f/3f4e783c-0717-4127-bd7b-885ca617ca29.jpg?1562380385
+  large: https://cards.scryfall.io/large/front/3/f/3f4e783c-0717-4127-bd7b-885ca617ca29.jpg?1562380385
+  png: https://cards.scryfall.io/png/front/3/f/3f4e783c-0717-4127-bd7b-885ca617ca29.png?1562380385
+  art_crop: https://cards.scryfall.io/art_crop/front/3/f/3f4e783c-0717-4127-bd7b-885ca617ca29.jpg?1562380385
+  border_crop: https://cards.scryfall.io/border_crop/front/3/f/3f4e783c-0717-4127-bd7b-885ca617ca29.jpg?1562380385
+mana_cost: "{3}{R}{R}"
+cmc: 5.0
+type_line: Instant
+oracle_text: 'Until end of turn, all creatures gain "{T}: This creature deals damage
+  equal to its power to target creature."'
+colors:
+- R
+color_identity:
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 385e11a4-492b-4d07-b4a6-a1409ef829b8
+set: mmq
+set_name: Mercadian Masques
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/385e11a4-492b-4d07-b4a6-a1409ef829b8
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ammq&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/mmq?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/3f4e783c-0717-4127-bd7b-885ca617ca29/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A6d53f58c-6cf3-4ecc-8227-8c264fecc836&unique=prints
+collector_number: '178'
+digital: false
+rarity: rare
+flavor_text: Anything can happen when patience is scarce and wine is abundant.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Edward P. Beard, Jr.
+artist_ids:
+- b845b8ee-aeea-4822-bcf9-7230625ac95c
+illustration_id: 853f15bc-8753-4c79-b7f9-9779f44b43a7
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 20016
+prices:
+  usd: '0.32'
+  usd_foil: '6.83'
+  usd_etched: 
+  eur: '0.18'
+  eur_foil: '19.00'
+  tix: '0.28'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=19723
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Brawl&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Brawl&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Brawl
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/6446?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Brawl&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/13103?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

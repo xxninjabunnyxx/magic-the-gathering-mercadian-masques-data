@@ -1,0 +1,113 @@
+---
+object: card
+id: 7d2437f2-1966-4e83-9f7e-6aaf76e21d11
+oracle_id: 6f880348-6dc8-4cf8-9313-9893c41a70a3
+multiverse_ids:
+- 19638
+mtgo_id: 13453
+mtgo_foil_id: 13454
+tcgplayer_id: 6508
+cardmarket_id: 11616
+name: Desert Twister
+lang: en
+released_at: '1999-10-04'
+uri: https://api.scryfall.com/cards/7d2437f2-1966-4e83-9f7e-6aaf76e21d11
+scryfall_uri: https://scryfall.com/card/mmq/243/desert-twister?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/7/d/7d2437f2-1966-4e83-9f7e-6aaf76e21d11.jpg?1562381816
+  normal: https://cards.scryfall.io/normal/front/7/d/7d2437f2-1966-4e83-9f7e-6aaf76e21d11.jpg?1562381816
+  large: https://cards.scryfall.io/large/front/7/d/7d2437f2-1966-4e83-9f7e-6aaf76e21d11.jpg?1562381816
+  png: https://cards.scryfall.io/png/front/7/d/7d2437f2-1966-4e83-9f7e-6aaf76e21d11.png?1562381816
+  art_crop: https://cards.scryfall.io/art_crop/front/7/d/7d2437f2-1966-4e83-9f7e-6aaf76e21d11.jpg?1562381816
+  border_crop: https://cards.scryfall.io/border_crop/front/7/d/7d2437f2-1966-4e83-9f7e-6aaf76e21d11.jpg?1562381816
+mana_cost: "{4}{G}{G}"
+cmc: 6.0
+type_line: Sorcery
+oracle_text: Destroy target permanent.
+colors:
+- G
+color_identity:
+- G
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 385e11a4-492b-4d07-b4a6-a1409ef829b8
+set: mmq
+set_name: Mercadian Masques
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/385e11a4-492b-4d07-b4a6-a1409ef829b8
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ammq&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/mmq?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/7d2437f2-1966-4e83-9f7e-6aaf76e21d11/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A6f880348-6dc8-4cf8-9313-9893c41a70a3&unique=prints
+collector_number: '243'
+digital: false
+rarity: uncommon
+flavor_text: The magical dust clouds Mercadian mages use to traverse the plane generate
+  storms that devastate the surrounding terrain. But as long as the storms don't touch
+  the mountain, the nobles simply don't care.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Kevin Murphy
+artist_ids:
+- ad209f86-cbfe-40ab-9c6d-0eb15b905239
+illustration_id: 9efd63a8-d2bb-4459-a5da-f99bc4d534af
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 11745
+penny_rank: 11282
+prices:
+  usd: '0.20'
+  usd_foil: '9.83'
+  usd_etched: 
+  eur: '0.25'
+  eur_foil: '3.33'
+  tix: '0.09'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=19638
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Desert+Twister&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Desert+Twister&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Desert+Twister
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/6508?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Desert+Twister&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/13453?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
